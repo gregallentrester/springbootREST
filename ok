@@ -1,0 +1,6 @@
+#!/bin/bsh -p
+
+kbyport 8080
+kbyport 8082
+
+mvn spring-boot:run

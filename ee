@@ -1,0 +1,7 @@
+#!/bin/bash -p
+
+echo;echo
+echo "curl localhost:8080/books | json_pp"
+echo;echo
+
+### "$(curl -v localhost:8080/books | json_pp)"
